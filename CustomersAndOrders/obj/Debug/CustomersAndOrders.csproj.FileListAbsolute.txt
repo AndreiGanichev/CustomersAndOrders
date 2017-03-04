@@ -1,0 +1,109 @@
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe.config
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.pdb
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csprojResolveAssemblyReference.cache
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.g.cs
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.g.cs
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\App.g.cs
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.cache
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.lref
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.baml
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.baml
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.g.resources
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.Properties.Resources.resources
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csproj.GenerateResource.Cache
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.exe
+c:\users\ag\documents\visual studio 2015\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.pdb
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe.config
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.pdb
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.pdb
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csprojResolveAssemblyReference.cache
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.g.cs
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\App.g.cs
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.cache
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.lref
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.baml
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.g.resources
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.Properties.Resources.resources
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csproj.GenerateResource.Cache
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.exe
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.baml
+C:\Users\lsv011\Documents\Visual Studio 2012\Projects\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe.config
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.pdb
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.pdb
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csprojResolveAssemblyReference.cache
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.baml
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\App.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.cache
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.lref
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.baml
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.g.resources
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.Properties.Resources.resources
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csproj.GenerateResource.Cache
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.exe
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.pdb
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.xml
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe.config
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.exe
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.pdb
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.pdb
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.dll
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.dll
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.pdb
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.xml
+C:\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csprojResolveAssemblyReference.cache
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.baml
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.g.cs
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.g.cs
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.g.cs
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\App.g.cs
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.cache
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.lref
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.baml
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.baml
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.g.resources
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.Properties.Resources.resources
+C:\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csproj.GenerateResource.Cache
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe.config
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.pdb
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.exe
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\CustomersAndOrders.pdb
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.dll
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.dll
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\DataStore.pdb
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.xml
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csprojResolveAssemblyReference.cache
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.baml
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.g.cs
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.g.cs
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\OrderFormWindow.g.cs
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\App.g.cs
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.cache
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders_MarkupCompile.lref
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\MainWindow.baml
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\View\AddCustomerWindow.baml
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.g.resources
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.Properties.Resources.resources
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.csproj.GenerateResource.Cache
+C:\Users\AG\Downloads\CustomersAndOrders\CustomersAndOrders\obj\Debug\CustomersAndOrders.exe

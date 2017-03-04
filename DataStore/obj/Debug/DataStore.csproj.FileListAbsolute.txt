@@ -1,0 +1,30 @@
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\DataStore.pdb
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\obj\Debug\DataStore.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\obj\Debug\DataStore.pdb
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\obj\Debug\DataStore.csprojResolveAssemblyReference.cache
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll.config
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.xml
+C:\Users\AG\Documents\Visual Studio 2015\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll.config
+C:\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll
+C:\CustomersAndOrders\DataStore\bin\Debug\DataStore.pdb
+C:\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.dll
+C:\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.xml
+C:\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\CustomersAndOrders\DataStore\obj\Debug\DataStore.csprojResolveAssemblyReference.cache
+C:\CustomersAndOrders\DataStore\obj\Debug\DataStore.dll
+C:\CustomersAndOrders\DataStore\obj\Debug\DataStore.pdb
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll.config
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\DataStore.dll
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\DataStore.pdb
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.dll
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.xml
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\obj\Debug\DataStore.csprojResolveAssemblyReference.cache
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\obj\Debug\DataStore.dll
+C:\Users\AG\Downloads\CustomersAndOrders\DataStore\obj\Debug\DataStore.pdb
