@@ -21,6 +21,8 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# DLL
+.dll
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
